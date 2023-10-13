@@ -1,5 +1,5 @@
 # Smart-Blind-Stick
-It an IOT(Internet Of Thing) based project.
+It is an IOT(Internet Of Thing) based project.
 It is a Stick which helps blind people to walk freely by informing them through a buzzer if a huddle comes in their way.
 
 
